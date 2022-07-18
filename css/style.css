@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(224, 52, 52);
+    text-align: center;
+    
+  }
+h1, h2 {
+    color: rgb(81, 60, 173);
+    font-style: italic 
+  }
+p {
+    color: #633e3c;
+  }
+ 

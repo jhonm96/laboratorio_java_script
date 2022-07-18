@@ -1,3 +1,4 @@
+
 export let pr1=["Quito es una ciudad de:","Colombia","Venezuela","Ecuador","Argentina","a"];
 export let pr2=["Cual de los siguientes es un IDE","Visual Estudio","NetBeans","GitHub","Notion","b" ]
 export let pr3=["Cual de los Siguientes es un Juego de Zombies","Drive","Resident Evil","Minecraft","Max Payne","b"]
@@ -33,6 +34,7 @@ export let pr5_2=["¿Quién inventó la lata para conservar alimentos?","Jorge P
 export let pr5_3=["Cual es el verdadero nombre del fusil de asalto conocido como Ak-47?","mihail Kalashnikov","Svv kalashnikova","makarova kalashnikov","Avtomat Kalashnikova","d"]
 export let pr5_4=["¿Qué edad tiene el Universo?","13.800 millones de años","10.506 millones de años","18.320 millones de años","23.420 millones de años","a"]
 export let pr5_5=["en que año fue producido el fusil de asalto Ak-47 ","1947","1850","1956","1960","a"]
+
 export let categoria5=[pr5_1,pr5_2,pr5_3,pr5_4,pr5_5]
 
 export let categorias=[categoria1,categoria2,categoria3,categoria4,categoria5]
